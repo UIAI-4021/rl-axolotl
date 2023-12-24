@@ -1,0 +1,7 @@
+
+.idea/misc.xml
+gym-maze/gym_maze/__pycache__/__init__.cpython-312.pyc
+.idea/rl-axolotl.iml
+gym-maze/gym_maze/envs/__pycache__/__init__.cpython-312.pyc
+gym-maze/gym_maze/envs/__pycache__/maze_env.cpython-312.pyc
+gym-maze/gym_maze/envs/__pycache__/maze_view_2d.cpython-312.pyc
